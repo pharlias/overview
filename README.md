@@ -49,6 +49,11 @@ With Pharlias, identity on Pharos becomes **more than just a wallet address**. I
 
 Join the naming revolution on Pharos 🌟
 
+## Deployed Contracts
+ENSRegistry : 0xe85ad793829e0660fba368c030b0c178db7cc17f
+PublicResolver : 0x09bddfebf1724e0fcd5ac905e0e9d24d08bb9741
+NFTRegistrar : 0xd32e9346fb52fe912b961e67d190d243755a4b52
+RentRegistrar : 0x578b2807ea81C429505F1be4743Aec422758A461
 
 ## Website
 Here's Pharlias website link: [https://pharlias.vercel.app/](https://pharlias.vercel.app/)
