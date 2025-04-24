@@ -37,7 +37,7 @@ Pharlias helps make Web3 on Pharos more accessible, personal, and powerful.
 ## 🔗 Use Cases
 
 - 🌐 Simplified logins and identities for dApps  
-- 💸 Easy peer-to-peer payments with `yourname.phr`  
+- 💸 Easy peer-to-peer payments with `yourname.pharos`  
 - 📱 Social features built around names instead of addresses  
 - 🧱 Smart contract integrations using Pharlias for identity mapping
 
